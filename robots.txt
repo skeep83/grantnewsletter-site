@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://grantalerts.org/sitemap.xml
+Sitemap: https://grantnewsletter.org/sitemap.xml
